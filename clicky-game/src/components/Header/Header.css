@@ -1,0 +1,14 @@
+.header {
+    width: 100%;
+  
+    color: rgb(30, 64, 216);
+    margin-bottom: 10px;
+}
+  
+.title {
+    font-size: 32px;
+}
+  
+.scores, .rules{
+    font-size: 22px;
+}
