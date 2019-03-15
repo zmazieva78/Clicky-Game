@@ -9,7 +9,7 @@ const Header = props => (
         <div className="row">
             <div className="col-8">
                 <div className="rules">
-                    <div>Rules: Click on each picture once, if you click it twice you will lose. Good luck!</div>
+                    <div>Rules: To get the most points, click on each purse once but remember never click the same one twice, you will lose.</div>
                 </div>
             </div>
             <div className="col-4">
