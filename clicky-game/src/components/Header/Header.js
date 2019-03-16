@@ -3,9 +3,9 @@ import "./Header.css";
 
 const Header = props => (
     <div className="header">
-        <div className="row">
-            <div className="title">Clicky Game</div>
-        </div>
+
+            <div className="title text-center">Clicky Game</div>
+        
         <div className="row">
             <div className="col-8">
                 <div className="rules">
